@@ -1,4 +1,4 @@
-HW_GitHub
+GitHub_HW_1
 
 JSON
 1. Создать внешний репозиторий c названием JSON
