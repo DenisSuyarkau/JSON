@@ -1,5 +1,4 @@
 GitHub_HW_1
-
 JSON
 1. Создать внешний репозиторий c названием JSON
 Заходим на [GitHub](https://github.com/) нажать `+` в `New repository` вводим имя `JSON` нажать `Create repository`
@@ -370,3 +369,4 @@ Expected Result : ""Test Data: 20.02.2022
 пишем в `Commit changes` `update bug_report`
  18. Синхронизировать внешний и локальный репозиторий TXT\
 `git pull`
+
